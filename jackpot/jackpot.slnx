@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="jackpot.vcxproj" Id="b6570973-5e84-4088-844a-f78338ba5c7b" />
+</Solution>
